@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6479434a-fb77-41dc-b63b-5c08ea3a714c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/NavigablePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/aboutmodal/AboutModal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/aboutmodal/AboutModalLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/buzz/BuzzPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/buzz/BuzzPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/dashboard/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/header/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/header/HeaderLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/login/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/login/LoginPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/myinfo/MyInfoLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/myinfo/MyInfoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/navigationbar/NavigationBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/aua/page/navigationbar/NavigationBarLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/am/aua/AuthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/am/aua/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/am/aua/BuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/am/aua/MyInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/am/aua/VersionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Resources.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eu3ukRfUbbJj7YRNsSyZnqkx0a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AppTest.executor": "Run",
+    "JUnit.AppTest.test.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.hw3.1 [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.<default>.executor": "Run",
+    "TestNG.AuthTest.executor": "Run",
+    "TestNG.AuthTest.testLogout.executor": "Run",
+    "TestNG.BuzzTest.executor": "Run",
+    "TestNG.HomePage.testName.executor": "Run",
+    "TestNG.HomePageTest.testName.executor": "Run",
+    "TestNG.MyInfoTest.executor": "Run",
+    "TestNG.VersionTest.executor": "Run",
+    "TestNG.am.aua.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/karengozeyan/projects/hw3.1/src/main/java/am/aua/page/myinfo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/am/aua/page/myinfo" />
+      <recent name="$PROJECT_DIR$/src/main/java/am/aua/page/home" />
+      <recent name="$PROJECT_DIR$/src/main/java/am/aua/page" />
+      <recent name="$PROJECT_DIR$/src/main/java/am/aua/page/login" />
+      <recent name="$PROJECT_DIR$/src/main/java/am/aua/page/header" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="am.aua" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="am.aua.page.aboutmodal" />
+      <recent name="am.aua.page.navigationbar" />
+      <recent name="am.aua.base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
+    <configuration name="AuthTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hw3.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="am.aua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="am.aua" />
+      <option name="MAIN_CLASS_NAME" value="am.aua.AuthTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuzzTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hw3.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="am.aua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="am.aua" />
+      <option name="MAIN_CLASS_NAME" value="am.aua.BuzzTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VersionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hw3.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="am.aua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="am.aua" />
+      <option name="MAIN_CLASS_NAME" value="am.aua.VersionTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hw3.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="am.aua" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hw3.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="am.aua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="am.aua" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.VersionTest" />
+        <item itemvalue="TestNG.am.aua" />
+        <item itemvalue="TestNG.AuthTest" />
+        <item itemvalue="TestNG.BuzzTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6479434a-fb77-41dc-b63b-5c08ea3a714c" name="Changes" comment="" />
+      <created>1712740861094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712740861094</updated>
+      <workItem from="1712740862190" duration="9042000" />
+      <workItem from="1713181443143" duration="1640000" />
+      <workItem from="1713435679991" duration="2483000" />
+      <workItem from="1714050654961" duration="20002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
