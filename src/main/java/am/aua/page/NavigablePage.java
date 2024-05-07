@@ -5,7 +5,7 @@ import am.aua.page.navigationbar.NavigationBar;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Wait;
 
-public abstract class NavigablePage extends BasePage {
+public abstract class NavigablePage extends BasePOM {
     private final Header header;
     private final NavigationBar navigationBar;
 

@@ -1,6 +1,6 @@
 package am.aua.page.header;
 
-import am.aua.page.BasePage;
+import am.aua.page.BasePOM;
 import am.aua.page.aboutmodal.AboutModal;
 import am.aua.page.login.LoginPage;
 import org.openqa.selenium.WebDriver;
@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.Wait;
 import static am.aua.page.header.HeaderLocators.*;
 import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOfElementLocated;
 
-public class Header extends BasePage {
+public class Header extends BasePOM {
 
     public Header(WebDriver driver, Wait<WebDriver> wait) {
         super(driver, wait);

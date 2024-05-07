@@ -27,8 +27,7 @@ public class BuzzTest extends BaseTest{
         BuzzPage buzzPage = myInfoPage.getNavigationBar().clickBuzzPage();
         String post = UUID.randomUUID().toString();
 
-        buzzPage.inputPostText(post);
-        buzzPage.submitPost();
+        buzzPage.submitPostWithText(post);
 
         assertThat(buzzPage.getLatestPost())
                 .isEqualTo(post);

@@ -1,6 +1,6 @@
 package am.aua.page.login;
 
-import am.aua.page.BasePage;
+import am.aua.page.BasePOM;
 import am.aua.page.dashboard.DashboardPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Wait;
@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Wait;
 import static am.aua.page.login.LoginPageLocators.*;
 import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOfElementLocated;
 
-public class LoginPage extends BasePage {
+public class LoginPage extends BasePOM {
 
     public LoginPage(WebDriver driver, Wait<WebDriver> wait) {
         super(driver, wait);

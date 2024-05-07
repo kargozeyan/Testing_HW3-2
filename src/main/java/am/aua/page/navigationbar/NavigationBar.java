@@ -1,6 +1,6 @@
 package am.aua.page.navigationbar;
 
-import am.aua.page.BasePage;
+import am.aua.page.BasePOM;
 import am.aua.page.buzz.BuzzPage;
 import am.aua.page.myinfo.MyInfoPage;
 import org.openqa.selenium.WebDriver;
@@ -10,7 +10,7 @@ import static am.aua.page.navigationbar.NavigationBarLocators.BUZZ_ITEM;
 import static am.aua.page.navigationbar.NavigationBarLocators.MY_INFO_ITEM;
 import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOfElementLocated;
 
-public class NavigationBar extends BasePage {
+public class NavigationBar extends BasePOM {
 
     public NavigationBar(WebDriver driver, Wait<WebDriver> wait) {
         super(driver, wait);

@@ -1,13 +1,13 @@
 package am.aua.page.aboutmodal;
 
-import am.aua.page.BasePage;
+import am.aua.page.BasePOM;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Wait;
 
 import static am.aua.page.aboutmodal.AboutModalLocators.*;
 import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOfElementLocated;
 
-public class AboutModal extends BasePage {
+public class AboutModal extends BasePOM {
 
     public AboutModal(WebDriver driver, Wait<WebDriver> wait) {
         super(driver, wait);
